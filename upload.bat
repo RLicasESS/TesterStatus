@@ -4,4 +4,3 @@ git add .
 git status
 git commit -m "Update index.html" || echo "Nothing to commit"
 git push origin main
-pause
