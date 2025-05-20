@@ -1,4 +1,4 @@
-cd C:\Users\RLicas\Documents\LOCAL_DRIVE\PYTHON\TESTERMONITOR\TesterStatus
+REM cd C:\Users\RLicas\Documents\LOCAL_DRIVE\PYTHON\TESTERMONITOR\TesterStatus
 git status
 git add .
 git status
